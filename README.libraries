@@ -1,0 +1,10 @@
+This project uses the following libraries:
+
+k6100
+
+It contains a modified version of the Kicad TO-92_Wide transistor with the
+middle leg in the opposite direction like the original board.
+
+It also contains a modified version of the Kicad
+CP_Axial_L18.0mm_D6.5mm_P25.00mm_Horizontal capacitor but with pads added
+for a radial cap, but it ultimately wasn't used due to routing issues.
